@@ -39,8 +39,3 @@ The project leverages several key tools and libraries to implement its features 
 - **Role-Based Model:** Each user is assigned a role that determines their access level to specific resources.  
 - **Data Security:** All passwords are securely hashed, and data transmission is protected via JWT authentication.  
 
-## Getting Started  
-
-### Prerequisites  
-- Node.js (v18+ recommended)  
-- PostgreSQL database  
